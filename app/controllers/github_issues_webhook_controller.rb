@@ -1,0 +1,2 @@
+class GithubIssuesWebhookController < ApplicationController
+end
